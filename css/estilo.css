@@ -9,6 +9,7 @@ body { display: flex;
 }
 
 header { width: 100vw;
+    padding: 15px;
     height: fit-content;
 }
 
@@ -31,4 +32,8 @@ footer { text-align: center;
 }
 
 #calcular { margin-top: 50px;
+}
+
+#resultado { width: 70vw;
+    height: auto;
 }
